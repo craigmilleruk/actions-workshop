@@ -35,7 +35,7 @@ jobs:
   package-and-publish:
     needs: build
 
-    name: Pacjkage and publish
+    name: Package and publish
     runs-on: ubuntu-latest
     permissions:
       contents: read
