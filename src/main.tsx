@@ -9,6 +9,8 @@ const Global = createGlobalStyle`
   }
 `;
 
+// random comment
+
 const container = document.getElementById("root");
 const root = createRoot(container!);
 
